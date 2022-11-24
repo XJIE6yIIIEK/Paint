@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Paint": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

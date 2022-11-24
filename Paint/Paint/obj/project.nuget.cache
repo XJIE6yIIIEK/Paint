@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e3bJwv/Trehqiaarq9oSqC1CDyJARzu6wm5qLQGqKiiyzVgfglTzw2o545e3t7ktgIotTXaA8d5C8uZh6s/ONA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\XJIE6yIIIEK\\source\\repos\\Paint\\Paint\\Paint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\XJIE6yIIIEK\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\5.0.15\\microsoft.netcore.app.host.win-x86.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

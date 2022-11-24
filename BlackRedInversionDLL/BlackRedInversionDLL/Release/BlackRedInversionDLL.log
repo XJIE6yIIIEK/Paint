@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  changer.cpp
+  dllmain.cpp
+  meta.cpp
+     Создается библиотека C:\Users\XJIE6yIIIEK\source\repos\BlackRedInversionDLL\Release\BlackRedInversionDLL.lib и объект C:\Users\XJIE6yIIIEK\source\repos\BlackRedInversionDLL\Release\BlackRedInversionDLL.exp
+  Создание кода
+  1 of 72 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  BlackRedInversionDLL.vcxproj -> C:\Users\XJIE6yIIIEK\source\repos\BlackRedInversionDLL\Release\BlackRedInversionDLL.dll
